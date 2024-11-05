@@ -108,6 +108,20 @@ From Table Name = CustomerData
 
 
 
+![power BI insight for sales data](https://github.com/user-attachments/assets/950a1d7d-6be1-4351-8d4d-c19b47242f26)
 
 
+![capston SQL sales data](https://github.com/user-attachments/assets/853302bf-eabb-4963-84c4-f9876a074782)
 
+![capstone SQL for customer data](https://github.com/user-attachments/assets/f987ed6b-0dc4-4aef-962a-7bf6e9de368f)
+
+## Outcome
+### For Sales Data
+The star product are shoes with a total sales of 613,380 this means our customer love to buy shoes. This is also a pointer to the fact that our customers love trendy shoes and so we concentrate our energy on being abreast with the shoes trend. Socks appeared last on the table, which means we need to work on increasing the demand for socks. Here a promotion sales can help drive its demand especially during the cold season and when schools resumes.
+Looking at the sales on a monthly basis, we can see that most sales was done in February and July which happens to be the 1st and 3rd quarter of the year and by year end the sales nosedived to less than 50%.
+The sales by region showed that more sales was done in the south region toping the table with over 900,000 sales and the west region with the least sales.
+Overall, each of the product and region recorded its own unique success at different time of the year across the country showing the customers committed to our brand and pointing us to areas where we need to push for more sales to record more revenue.
+
+### For Customer Data
+Our analysis on the customer data showed that most pf our customers are on the basic subscription which speaks to the fact that it is very affordable and a whole lot of the customers are living within their budget as we can see that the average subscription period is 365 days.
+At the region we can see that the east region recorded no cancellation unlike the other regions where customers sometimes canceled their plan. This again shows the level of loyalty that our customers have towards the brand
