@@ -103,6 +103,8 @@ From Table Name = SalesData
 select *
 From Table Name = CustomerData
 
+## Data Visualization
+
 
 
 
